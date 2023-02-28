@@ -7,6 +7,9 @@ To create a REST service that can fetch bank details, using the data given in th
 ## My Deployed URL : https://business-on-bot.vercel.app/
 ## Main Page:
 
+![image](https://user-images.githubusercontent.com/77496451/221841753-8f176c6c-3c07-4e32-8bb7-c185ace158c0.png)
+
+
 ## CASE 1:
 Search API to return possible matches across all columns and all rows, ordered by IFSC code (ascending order) with limit and offset.
 
